@@ -11,7 +11,7 @@ import re
 import sys
 import urllib.request
 
-OWNER = os.environ.get("GITHUB_REPOSITORY_OWNER", "qubantra")
+OWNER = os.environ.get("GITHUB_REPOSITORY_OWNER", "rnpproject")
 SELF_NAME = os.environ.get("GITHUB_REPOSITORY", f"{OWNER}/github-profile").split("/")[-1]
 README = os.environ.get("README_PATH", "README.md")
 LIMIT = int(os.environ.get("PROJECT_LIMIT", "6"))

@@ -26,12 +26,12 @@ Daftar ini diperbarui otomatis setiap hari dari repositori publik yang paling ba
 <!-- PROJECTS:START -->
 | Proyek | Deskripsi | Bahasa | Bintang |
 | --- | --- | --- | ---: |
-| [open-vpn](https://github.com/rnpproject/open-vpn) | - | Shell | 1 |
-| [profile-contact](https://github.com/rnpproject/profile-contact) | profile contact web | CSS | 0 |
-| [test](https://github.com/rnpproject/test) | - | Python | 0 |
-| [website](https://github.com/rnpproject/website) | - | HTML | 1 |
-| [spam-p](https://github.com/rnpproject/spam-p) | - | Python | 0 |
-| [bkn](https://github.com/rnpproject/bkn) | script for vpn tunneling, source from Julak-Bantur | Shell | 0 |
+| [open-vpn-web](https://github.com/rnpproject/open-vpn-web) | Portal publik untuk membuat akun VPN lewat API server. | TypeScript | 1 |
+| [open-vpn-server](https://github.com/rnpproject/open-vpn-server) | Server VPN untuk mengelola akun OpenVPN, SSH, dan Xray melalui CLI, menu interaktif, atau REST API. Dilengkapi registry SQLite, pengaturan masa aktif, dan pembatasan sesi. | Shell | 1 |
+| [banner-makker](https://github.com/rnpproject/banner-makker) | Banner maker for my project | HTML | 1 |
+| [spam-p](https://github.com/rnpproject/spam-p) | - | Python | 1 |
+| [python-dump](https://github.com/rnpproject/python-dump) | - | Python | 1 |
+| [telegram-bot](https://github.com/rnpproject/telegram-bot) | - | Python | 1 |
 <!-- PROJECTS:END -->
 
 ## Statistik

@@ -24,7 +24,14 @@
 Daftar ini diperbarui otomatis setiap hari dari repositori publik yang paling baru aktif.
 
 <!-- PROJECTS:START -->
-Belum ada proyek publik.
+| Proyek | Deskripsi | Bahasa | Bintang |
+| --- | --- | --- | ---: |
+| [open-vpn](https://github.com/rnpproject/open-vpn) | - | Shell | 1 |
+| [profile-contact](https://github.com/rnpproject/profile-contact) | profile contact web | CSS | 0 |
+| [test](https://github.com/rnpproject/test) | - | Python | 0 |
+| [website](https://github.com/rnpproject/website) | - | HTML | 1 |
+| [spam-p](https://github.com/rnpproject/spam-p) | - | Python | 0 |
+| [bkn](https://github.com/rnpproject/bkn) | script for vpn tunneling, source from Julak-Bantur | Shell | 0 |
 <!-- PROJECTS:END -->
 
 ## Statistik

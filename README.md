@@ -26,7 +26,7 @@ Daftar ini diperbarui otomatis setiap hari dari repositori publik yang paling ba
 <!-- PROJECTS:START -->
 | Proyek | Deskripsi | Bahasa | Bintang |
 | --- | --- | --- | ---: |
-| [algentraCapitalProject](https://github.com/rnpproject/algentraCapitalProject) | AI Trade | Python | 1 |
+| [algentraCapitalProject](https://github.com/rnpproject/algentraCapitalProject) | AI Trade | Go | 1 |
 | [profile](https://github.com/rnpproject/profile) | web profile | HTML | 1 |
 | [open-vpn-web](https://github.com/rnpproject/open-vpn-web) | Portal publik untuk membuat akun VPN lewat API server. | TypeScript | 1 |
 | [open-vpn-server](https://github.com/rnpproject/open-vpn-server) | Server VPN untuk mengelola akun OpenVPN, SSH, dan Xray melalui CLI, menu interaktif, atau REST API. Dilengkapi registry SQLite, pengaturan masa aktif, dan pembatasan sesi. | Shell | 1 |
